@@ -17,8 +17,8 @@ const CONFIG = {
   closeHour: 20,
   daysAhead: 7,
 
-  musicFile: "gdsn.m4a",
-  musicTitle: "Get Down Saturday Night",
+  musicFile: "wioo.m4a",
+  musicTitle: "Generic",
   musicVolume: 25, // 0 to 100
 
   // order matches the layout: 1 top, 2 right, 3 left, 4 bottom
